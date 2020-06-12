@@ -1,9 +1,9 @@
-# RetroCRT 240p RetroPie Theme
+# RetroCRT 240p adaptation theme for rgbuntu/rgux. 
 
-This is a theme I've designed for [RetroCRT](https://github.com/xovox/RetroCRT), my customized toolset to run [RetroPie](https://retropie.org.uk) on CRT TVs & arcade cabinets.
+This is a fork theme coming from https://github.com/xovox/es-theme-RetroCRT-240p, adapted for rgbuntu/rbux systems (https://github.com/rgb-x).
 
 * Installation
-  * This is installable via RetroPie-Setup
+  * In terminal console write: git clone --recursive https://github.com/jujigar/es-theme-RetroCRT-240p.git
 
 * Supports
   * Basic View with MASSIVE TEXT
